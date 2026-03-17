@@ -1,0 +1,231 @@
+  AI-Powered Customer Support System using NLP,BERT & RAG
+
+
+Project Overview:
+
+This project builds an intelligent AI customer support assistant that can automatically understand customer queries, detect user intent and sentiment, retrieve relevant knowledge, and generate helpful responses.
+
+The system combines machine learning, transformer models, vector search, and generative AI to simulate a real-world customer support chatbot.
+
+The pipeline performs the following tasks:
+
+Understand customer message
+Identify the intent of the query
+Detect customer sentiment
+Retrieve relevant support information
+Generate an intelligent response
+Deploy as a Streamlit web application.
+
+Technologies Used:
+Programming Language
+Python
+
+Libraries
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+
+NLP / AI Models :
+
+HuggingFace Transformers
+DistilBERT
+Sentence Transformers
+GPT-2
+
+Vector Database:
+
+FAISS
+
+Deployment:
+
+Streamlit
+Ngrok
+
+Dataset:
+
+Dataset Size
+Original dataset: 50,000 records
+
+After sampling:
+25,000 customer queries
+
+Important Columns:
+
+| Column             | Description         |
+| ------------------ | ------------------- |
+| query              | Customer message    |
+| intent             | Type of request     |
+| sentiment          | Customer emotion    |
+| country            | Customer location   |
+| product_group      | Product category    |
+| plan               | Customer plan       |
+| customer_type      | Type of user        |
+| priority           | Issue priority      |
+| amount_billed      | Billing information |
+| satisfaction_score | Feedback score      |
+
+
+Data Preprocessing:
+
+The dataset was cleaned and filtered before training.
+
+Steps :
+
+Randomly sampled 25,000 records
+Selected important columns
+Renamed query → text
+Filtered selected intent categories
+Filtered selected sentiment categories
+
+
+Selected Intents:
+
+Billing
+Refund
+Technical Support
+Complaint
+Information Query
+Plan Upgrade
+Cancellation
+
+Selected Sentiments:
+
+Angry
+Neutral
+Happy
+Satisfied
+
+Exploratory Data Analysis (EDA):
+
+EDA was performed to understand the dataset.
+
+Visualizations created
+Sentiment Distribution
+Intent Distribution
+Intent vs Sentiment
+Message Length Distribution
+
+Text Cleaning:
+
+Customer messages were cleaned using the following steps:
+
+Convert text to lowercase
+Remove special characters
+Remove punctuation
+Remove unnecessary symbols
+
+
+Intent Classification Model :
+The first AI model predicts customer intent.
+
+Model Used --> DistilBERT
+
+Training Steps:
+
+Label Encoding of intent
+Train/Test Split (80/20)
+Tokenization using BERT tokenizer
+Convert dataset to HuggingFace format
+Train model using Trainer
+
+Model Evaluation :
+
+The intent classifier was evaluated using:
+
+Accuracy
+F1 Score
+Confusion Matrix
+Classification Report
+
+
+Sentiment Analysis Model :
+A second transformer model predicts customer sentiment.
+
+Sentiment Classes :-
+
+Angry
+Neutral
+Happy
+Satisfied
+
+Process :-
+
+Label encoding
+Train/test split
+Tokenization
+PyTorch dataset creation
+DistilBERT fine-tuning
+
+This model detects customer emotional state.
+
+
+Vector Database using FAISS :
+To provide intelligent answers, the system uses FAISS vector search.
+
+Embedding Model:
+
+SentenceTransformer -- all-MiniLM-L6-v2
+
+Each document is converted into a 384-dimension vector.
+
+
+Retrieval Augmented Generation (RAG):
+
+RAG Pipeline
+
+User Query
+↓
+Intent Classification
+↓
+Sentiment Detection
+↓
+Vector Search (FAISS)
+↓
+Retrieve Relevant Document
+↓
+LLM Generates Response
+
+Generation Model -- GPT-2
+
+The retrieved document is provided as context to the generator.
+
+
+AI Copilot System:
+
+The final system combines:
+
+Intent detection
+Sentiment analysis
+Knowledge retrieval
+Text generation
+
+Output:
+
+Intent → Billing
+Sentiment → Angry
+Response → Billing help instructions.
+
+
+Streamlit Web Application:
+A Streamlit interface was created for the chatbot.
+
+Features:
+
+Text input for user queries
+AI response generation
+Real-time predictions
+
+UI Flow:
+
+User enters query
+↓
+System processes query
+↓
+Shows:
+
+Intent
+Sentiment
+AI Response
