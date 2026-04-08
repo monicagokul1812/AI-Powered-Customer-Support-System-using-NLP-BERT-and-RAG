@@ -7,8 +7,7 @@ The system is designed to simulate an intelligent customer support assistant cap
 The project combines transformer models, vector search, and generative AI to create a complete AI support pipeline. It helps automate customer service tasks and improve response efficiency by providing quick and relevant answers to user queries.
 
 Dataset:
-original dataset - 50000
-sample dataset - 25000 (selected radomly)
+original dataset - 15000 (selected radomly)
 
 columns :
 
@@ -26,7 +25,7 @@ satisfaction_score
 
 Data Preprocessing:
 --> steps :
-Random sampling of 25,000 records
+Random sampling of 15,000 records
 Selection of relevant columns
 Renaming query to text
 Filtering important intent categories
