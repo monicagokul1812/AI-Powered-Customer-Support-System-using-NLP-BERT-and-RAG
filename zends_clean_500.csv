@@ -1,0 +1,501 @@
+text,intent,sentiment,product,plan,country,user_type
+Please process a refund for prepaid basic,refund,negative,mobile,prepaid basic,Thailand,individual
+Why was I charged 45 for my storage 10tb?,billing,negative,cloud,storage 10tb,USA,enterprise
+"I was billed 88 for postpaid silver, can you explain?",billing,negative,mobile,postpaid silver,Thailand,enterprise
+Can you switch my plan to storage 10tb?,plan_change,positive,cloud,storage 10tb,Thailand,enterprise
+Please process a refund for vm basic,refund,negative,cloud,vm basic,India,enterprise
+"My bill shows 3869 for smart parking, why is that?",billing,negative,iot,smart parking,India,enterprise
+Upgrade my current plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,India,enterprise
+Can I get a refund for vm pro?,refund,negative,cloud,vm pro,USA,enterprise
+Why is my smart parking bill 212?,billing,negative,iot,smart parking,Singapore,enterprise
+I am facing issues with my fiber 1gbps,technical_support,neutral,broadband,fiber 1gbps,Singapore,individual
+There is a problem with my cloud service,technical_support,negative,cloud,storage 1tb,Thailand,enterprise
+My mobile service is not working properly,technical_support,negative,mobile,prepaid plus,Singapore,enterprise
+My fleet iot is not functioning correctly,technical_support,negative,iot,fleet iot,Thailand,individual
+I want to change my plan to smart traffic,plan_change,neutral,iot,smart traffic,Thailand,enterprise
+Why was I charged 34 for my fiber 100?,billing,neutral,broadband,fiber 100,Singapore,enterprise
+Please upgrade me to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Thailand,individual
+Why was I charged 123 for my storage 10tb?,billing,negative,cloud,storage 10tb,Singapore,individual
+There is a problem with my cloud service,technical_support,negative,cloud,storage 1tb,USA,individual
+Can you switch my plan to prepaid unlimited?,plan_change,positive,mobile,prepaid unlimited,Singapore,enterprise
+Upgrade my current plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,India,enterprise
+Please upgrade me to postpaid gold,upgrade,positive,mobile,postpaid gold,India,individual
+There is an unexpected charge of 23 for fiber 300,billing,negative,broadband,fiber 300,USA,individual
+I want to upgrade my plan to fiber 300,upgrade,positive,broadband,fiber 300,India,individual
+My vm basic is not functioning correctly,technical_support,neutral,cloud,vm basic,Thailand,enterprise
+There is an unexpected charge of 185 for prepaid plus,billing,negative,mobile,prepaid plus,USA,individual
+I want a refund for my vm pro,refund,negative,cloud,vm pro,Thailand,individual
+Can you move me to smart parking?,upgrade,positive,iot,smart parking,India,enterprise
+I would like to switch to prepaid plus,upgrade,positive,mobile,prepaid plus,USA,individual
+Can you move me to fiber 1gbps?,upgrade,positive,broadband,fiber 1gbps,Thailand,individual
+Is refund possible for smart parking?,refund,negative,iot,smart parking,USA,individual
+I want to change my plan to fiber 300,plan_change,positive,broadband,fiber 300,USA,individual
+The broadband connection is very slow,technical_support,neutral,broadband,fiber 300,Thailand,individual
+The cloud connection is very slow,technical_support,negative,cloud,vm enterprise,USA,individual
+I need my money back for fiber 1gbps,refund,negative,broadband,fiber 1gbps,Singapore,enterprise
+I want a refund for my postpaid silver,refund,negative,mobile,postpaid silver,Thailand,individual
+I want to change my plan to vm enterprise,plan_change,positive,cloud,vm enterprise,Thailand,individual
+Why is my fiber 100 bill 5812?,billing,negative,broadband,fiber 100,India,enterprise
+Please change my current plan to storage 10tb,plan_change,neutral,cloud,storage 10tb,Singapore,enterprise
+Please upgrade me to vm enterprise,upgrade,positive,cloud,vm enterprise,India,enterprise
+Help me change to vm enterprise,plan_change,positive,cloud,vm enterprise,USA,individual
+Why is my fiber 1gbps bill 24?,billing,negative,broadband,fiber 1gbps,Thailand,individual
+Is refund possible for storage 1tb?,refund,negative,cloud,storage 1tb,India,individual
+I am facing issues with my postpaid platinum,technical_support,neutral,mobile,postpaid platinum,Singapore,individual
+There is an unexpected charge of 95 for storage 1tb,billing,negative,cloud,storage 1tb,Singapore,enterprise
+I am facing issues with my fleet iot,technical_support,negative,iot,fleet iot,USA,individual
+Why was I charged 112 for my fiber 300?,billing,negative,broadband,fiber 300,USA,individual
+I am facing issues with my storage 10tb,technical_support,neutral,cloud,storage 10tb,Singapore,enterprise
+My fiber 1gbps is not functioning correctly,technical_support,negative,broadband,fiber 1gbps,USA,individual
+Can you switch my plan to fiber 100?,plan_change,neutral,broadband,fiber 100,India,individual
+I want a refund for my postpaid gold,refund,negative,mobile,postpaid gold,India,individual
+The broadband connection is very slow,technical_support,negative,broadband,fiber 100,Thailand,enterprise
+There is an unexpected charge of 19 for postpaid platinum,billing,neutral,mobile,postpaid platinum,USA,enterprise
+Can you move me to prepaid plus?,upgrade,positive,mobile,prepaid plus,Thailand,enterprise
+I would like to modify my plan to smart traffic,plan_change,neutral,iot,smart traffic,Singapore,enterprise
+Please upgrade me to postpaid silver,upgrade,positive,mobile,postpaid silver,USA,enterprise
+Can you switch my plan to storage 10tb?,plan_change,neutral,cloud,storage 10tb,Thailand,individual
+There is a problem with my iot service,technical_support,neutral,iot,smart traffic,Singapore,individual
+Please change my current plan to postpaid gold,plan_change,positive,mobile,postpaid gold,India,enterprise
+There is a problem with my iot service,technical_support,neutral,iot,smart parking,Singapore,individual
+Can you move me to smart parking?,upgrade,positive,iot,smart parking,Singapore,enterprise
+I want to upgrade my plan to storage 1tb,upgrade,positive,cloud,storage 1tb,USA,enterprise
+Can I get a refund for postpaid silver?,refund,negative,mobile,postpaid silver,India,individual
+Why is my prepaid plus bill 38?,billing,negative,mobile,prepaid plus,Thailand,individual
+"I was billed 32 for fiber 100, can you explain?",billing,neutral,broadband,fiber 100,USA,individual
+Is refund possible for vm enterprise?,refund,negative,cloud,vm enterprise,Thailand,enterprise
+I am facing issues with my smart traffic,technical_support,neutral,iot,smart traffic,India,individual
+Help me change to prepaid basic,plan_change,positive,mobile,prepaid basic,Singapore,enterprise
+Upgrade my current plan to postpaid platinum,upgrade,positive,mobile,postpaid platinum,India,enterprise
+"I was billed 73 for prepaid basic, can you explain?",billing,negative,mobile,prepaid basic,Thailand,individual
+There is an unexpected charge of 68 for fleet iot,billing,neutral,iot,fleet iot,Singapore,enterprise
+I am facing issues with my storage 10tb,technical_support,neutral,cloud,storage 10tb,Singapore,enterprise
+I need my money back for fiber 100,refund,negative,broadband,fiber 100,USA,individual
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,India,individual
+"I was billed 140 for fiber 300, can you explain?",billing,negative,broadband,fiber 300,USA,individual
+There is a problem with my cloud service,technical_support,negative,cloud,storage 10tb,India,individual
+I need my money back for postpaid gold,refund,negative,mobile,postpaid gold,India,enterprise
+Can you move me to fleet iot?,upgrade,positive,iot,fleet iot,India,enterprise
+Is refund possible for vm enterprise?,refund,negative,cloud,vm enterprise,India,enterprise
+I want to upgrade my plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Singapore,individual
+I want a refund for my postpaid platinum,refund,negative,mobile,postpaid platinum,Singapore,enterprise
+I would like to modify my plan to prepaid plus,plan_change,neutral,mobile,prepaid plus,India,enterprise
+I want a refund for my prepaid plus,refund,negative,mobile,prepaid plus,Singapore,enterprise
+Is refund possible for fiber 100?,refund,negative,broadband,fiber 100,Thailand,enterprise
+"I was billed 3858 for prepaid plus, can you explain?",billing,neutral,mobile,prepaid plus,India,individual
+There is an unexpected charge of 51 for postpaid silver,billing,negative,mobile,postpaid silver,USA,individual
+Please upgrade me to fleet iot,upgrade,positive,iot,fleet iot,USA,individual
+I would like to switch to prepaid plus,upgrade,positive,mobile,prepaid plus,India,individual
+I would like to modify my plan to smart parking,plan_change,positive,iot,smart parking,Thailand,individual
+There is an unexpected charge of 4351 for prepaid plus,billing,neutral,mobile,prepaid plus,India,enterprise
+Please change my current plan to fiber 300,plan_change,neutral,broadband,fiber 300,India,individual
+I want a refund for my prepaid basic,refund,negative,mobile,prepaid basic,USA,individual
+Is refund possible for smart traffic?,refund,negative,iot,smart traffic,India,individual
+Can you move me to prepaid unlimited?,upgrade,positive,mobile,prepaid unlimited,Singapore,individual
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,India,enterprise
+Why was I charged 22 for my storage 1tb?,billing,negative,cloud,storage 1tb,Thailand,individual
+There is an unexpected charge of 1792 for smart parking,billing,neutral,iot,smart parking,India,enterprise
+Please upgrade me to vm enterprise,upgrade,positive,cloud,vm enterprise,Thailand,enterprise
+My broadband service is not working properly,technical_support,negative,broadband,fiber 300,USA,enterprise
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,Thailand,individual
+Why was I charged 3070 for my postpaid gold?,billing,neutral,mobile,postpaid gold,India,enterprise
+I am facing issues with my postpaid silver,technical_support,negative,mobile,postpaid silver,India,enterprise
+There is an unexpected charge of 41 for storage 1tb,billing,neutral,cloud,storage 1tb,USA,enterprise
+I want to upgrade my plan to fleet iot,upgrade,positive,iot,fleet iot,Thailand,individual
+Help me change to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,Thailand,enterprise
+"I was billed 126 for fleet iot, can you explain?",billing,neutral,iot,fleet iot,Thailand,enterprise
+The mobile connection is very slow,technical_support,neutral,mobile,prepaid unlimited,Singapore,individual
+Upgrade my current plan to smart parking,upgrade,positive,iot,smart parking,Thailand,individual
+The broadband connection is very slow,technical_support,negative,broadband,fiber 1gbps,India,individual
+Can you move me to storage 10tb?,upgrade,positive,cloud,storage 10tb,Thailand,enterprise
+I would like to switch to smart traffic,upgrade,positive,iot,smart traffic,Singapore,individual
+I want a refund for my fiber 1gbps,refund,negative,broadband,fiber 1gbps,India,individual
+I want to change my plan to smart traffic,plan_change,positive,iot,smart traffic,Thailand,individual
+I want a refund for my vm basic,refund,negative,cloud,vm basic,India,individual
+Help me change to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,India,enterprise
+There is an unexpected charge of 4877 for prepaid plus,billing,neutral,mobile,prepaid plus,India,individual
+The iot connection is very slow,technical_support,neutral,iot,fleet iot,Singapore,individual
+Why is my fiber 300 bill 124?,billing,negative,broadband,fiber 300,Singapore,individual
+"My bill shows 118 for smart parking, why is that?",billing,neutral,iot,smart parking,USA,individual
+There is a problem with my cloud service,technical_support,neutral,cloud,storage 1tb,India,individual
+I am facing issues with my vm enterprise,technical_support,neutral,cloud,vm enterprise,USA,individual
+I need my money back for smart parking,refund,negative,iot,smart parking,India,enterprise
+"I was billed 94 for smart traffic, can you explain?",billing,neutral,iot,smart traffic,USA,enterprise
+I need my money back for fiber 1gbps,refund,negative,broadband,fiber 1gbps,Singapore,individual
+Upgrade my current plan to smart parking,upgrade,positive,iot,smart parking,Thailand,enterprise
+I want to upgrade my plan to smart parking,upgrade,positive,iot,smart parking,Thailand,enterprise
+I am facing issues with my storage 10tb,technical_support,negative,cloud,storage 10tb,Thailand,individual
+Help me change to smart traffic,plan_change,positive,iot,smart traffic,USA,enterprise
+Why is my postpaid silver bill 133?,billing,neutral,mobile,postpaid silver,Thailand,enterprise
+I want to change my plan to fiber 1gbps,plan_change,positive,broadband,fiber 1gbps,Singapore,individual
+"My bill shows 58 for fiber 100, why is that?",billing,neutral,broadband,fiber 100,Thailand,enterprise
+I want to upgrade my plan to smart traffic,upgrade,positive,iot,smart traffic,India,enterprise
+I need my money back for smart traffic,refund,negative,iot,smart traffic,Thailand,enterprise
+I want to upgrade my plan to postpaid platinum,upgrade,positive,mobile,postpaid platinum,USA,individual
+"My bill shows 103 for storage 10tb, why is that?",billing,negative,cloud,storage 10tb,Singapore,individual
+Can you switch my plan to postpaid platinum?,plan_change,neutral,mobile,postpaid platinum,USA,individual
+I would like to modify my plan to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,India,enterprise
+I would like to modify my plan to postpaid gold,plan_change,positive,mobile,postpaid gold,Thailand,individual
+Please upgrade me to smart traffic,upgrade,positive,iot,smart traffic,Thailand,enterprise
+I want to upgrade my plan to smart traffic,upgrade,positive,iot,smart traffic,India,individual
+"My bill shows 55 for storage 10tb, why is that?",billing,neutral,cloud,storage 10tb,Singapore,enterprise
+Why is my vm pro bill 146?,billing,negative,cloud,vm pro,Thailand,enterprise
+My broadband service is not working properly,technical_support,negative,broadband,fiber 100,India,individual
+The cloud connection is very slow,technical_support,negative,cloud,vm enterprise,India,enterprise
+Can you switch my plan to postpaid silver?,plan_change,positive,mobile,postpaid silver,Thailand,individual
+Please upgrade me to fiber 100,upgrade,positive,broadband,fiber 100,India,enterprise
+Please change my current plan to vm enterprise,plan_change,positive,cloud,vm enterprise,India,individual
+I need my money back for fiber 100,refund,negative,broadband,fiber 100,India,enterprise
+Can I get a refund for prepaid unlimited?,refund,negative,mobile,prepaid unlimited,USA,individual
+Why is my fleet iot bill 65?,billing,negative,iot,fleet iot,Thailand,individual
+There is an unexpected charge of 197 for fleet iot,billing,neutral,iot,fleet iot,USA,individual
+I want to change my plan to prepaid unlimited,plan_change,neutral,mobile,prepaid unlimited,Singapore,individual
+My cloud service is not working properly,technical_support,negative,cloud,storage 1tb,Thailand,individual
+I want to upgrade my plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Singapore,enterprise
+I want a refund for my postpaid silver,refund,negative,mobile,postpaid silver,Singapore,enterprise
+I would like to modify my plan to fiber 100,plan_change,neutral,broadband,fiber 100,Singapore,individual
+Help me change to vm enterprise,plan_change,neutral,cloud,vm enterprise,USA,individual
+Help me change to fleet iot,plan_change,neutral,iot,fleet iot,India,individual
+Can you move me to prepaid basic?,upgrade,positive,mobile,prepaid basic,Thailand,individual
+"My bill shows 3471 for smart parking, why is that?",billing,negative,iot,smart parking,India,enterprise
+"I was billed 150 for fiber 300, can you explain?",billing,negative,broadband,fiber 300,Thailand,enterprise
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,Thailand,individual
+The cloud connection is very slow,technical_support,negative,cloud,storage 10tb,Singapore,enterprise
+Upgrade my current plan to vm basic,upgrade,positive,cloud,vm basic,India,enterprise
+Help me change to vm basic,plan_change,neutral,cloud,vm basic,India,enterprise
+Can you switch my plan to fleet iot?,plan_change,neutral,iot,fleet iot,USA,enterprise
+Is refund possible for storage 10tb?,refund,negative,cloud,storage 10tb,Thailand,enterprise
+The mobile connection is very slow,technical_support,neutral,mobile,prepaid unlimited,India,individual
+My cloud service is not working properly,technical_support,negative,cloud,vm basic,USA,individual
+There is a problem with my cloud service,technical_support,neutral,cloud,storage 10tb,Thailand,enterprise
+My vm pro is not functioning correctly,technical_support,negative,cloud,vm pro,Thailand,enterprise
+"I was billed 2351 for prepaid plus, can you explain?",billing,neutral,mobile,prepaid plus,India,individual
+Please upgrade me to smart traffic,upgrade,positive,iot,smart traffic,Thailand,individual
+"I was billed 3552 for prepaid plus, can you explain?",billing,neutral,mobile,prepaid plus,India,enterprise
+I want to upgrade my plan to fiber 300,upgrade,positive,broadband,fiber 300,India,enterprise
+"I was billed 170 for postpaid silver, can you explain?",billing,neutral,mobile,postpaid silver,Thailand,individual
+Help me change to smart parking,plan_change,neutral,iot,smart parking,Singapore,individual
+My iot service is not working properly,technical_support,neutral,iot,smart traffic,Singapore,individual
+My smart parking is not functioning correctly,technical_support,neutral,iot,smart parking,Singapore,enterprise
+Please process a refund for fiber 100,refund,negative,broadband,fiber 100,India,enterprise
+I need my money back for vm basic,refund,negative,cloud,vm basic,USA,enterprise
+There is an unexpected charge of 30 for storage 10tb,billing,neutral,cloud,storage 10tb,Thailand,enterprise
+My broadband service is not working properly,technical_support,neutral,broadband,fiber 300,Thailand,enterprise
+Can you move me to fleet iot?,upgrade,positive,iot,fleet iot,Thailand,enterprise
+I want to change my plan to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,USA,individual
+I want a refund for my storage 1tb,refund,negative,cloud,storage 1tb,Singapore,individual
+Can you switch my plan to smart parking?,plan_change,neutral,iot,smart parking,USA,individual
+I need my money back for postpaid silver,refund,negative,mobile,postpaid silver,USA,enterprise
+Please process a refund for prepaid unlimited,refund,negative,mobile,prepaid unlimited,USA,enterprise
+"I was billed 122 for smart traffic, can you explain?",billing,neutral,iot,smart traffic,USA,enterprise
+My vm basic is not functioning correctly,technical_support,negative,cloud,vm basic,USA,enterprise
+The iot connection is very slow,technical_support,negative,iot,smart parking,Singapore,individual
+I would like to switch to vm pro,upgrade,positive,cloud,vm pro,Thailand,enterprise
+Why was I charged 150 for my fiber 100?,billing,neutral,broadband,fiber 100,USA,individual
+My smart parking is not functioning correctly,technical_support,negative,iot,smart parking,India,individual
+Why is my vm basic bill 84?,billing,negative,cloud,vm basic,USA,individual
+There is an unexpected charge of 91 for storage 10tb,billing,negative,cloud,storage 10tb,Singapore,individual
+My fleet iot is not functioning correctly,technical_support,neutral,iot,fleet iot,Singapore,enterprise
+Why is my prepaid plus bill 61?,billing,neutral,mobile,prepaid plus,USA,enterprise
+"My bill shows 94 for smart traffic, why is that?",billing,neutral,iot,smart traffic,Singapore,individual
+There is a problem with my broadband service,technical_support,neutral,broadband,fiber 1gbps,India,individual
+There is a problem with my mobile service,technical_support,negative,mobile,prepaid basic,Thailand,individual
+I need my money back for vm basic,refund,negative,cloud,vm basic,India,individual
+Help me change to prepaid basic,plan_change,positive,mobile,prepaid basic,India,individual
+I would like to switch to fiber 300,upgrade,positive,broadband,fiber 300,Thailand,individual
+My postpaid platinum is not functioning correctly,technical_support,neutral,mobile,postpaid platinum,USA,enterprise
+I would like to switch to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,USA,individual
+Why was I charged 54 for my smart parking?,billing,neutral,iot,smart parking,Singapore,enterprise
+Can you switch my plan to vm basic?,plan_change,neutral,cloud,vm basic,India,individual
+I want to change my plan to smart traffic,plan_change,positive,iot,smart traffic,Singapore,individual
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,India,enterprise
+I am facing issues with my prepaid basic,technical_support,negative,mobile,prepaid basic,India,enterprise
+Can I get a refund for storage 10tb?,refund,negative,cloud,storage 10tb,Thailand,enterprise
+There is a problem with my cloud service,technical_support,negative,cloud,storage 10tb,Thailand,enterprise
+There is an unexpected charge of 118 for storage 1tb,billing,neutral,cloud,storage 1tb,Thailand,enterprise
+Please upgrade me to postpaid platinum,upgrade,positive,mobile,postpaid platinum,USA,individual
+I need my money back for vm pro,refund,negative,cloud,vm pro,India,individual
+I would like to switch to vm pro,upgrade,positive,cloud,vm pro,Thailand,enterprise
+Upgrade my current plan to fiber 100,upgrade,positive,broadband,fiber 100,Singapore,enterprise
+Please upgrade me to fiber 300,upgrade,positive,broadband,fiber 300,Thailand,enterprise
+Is refund possible for storage 10tb?,refund,negative,cloud,storage 10tb,Singapore,enterprise
+I want to upgrade my plan to storage 1tb,upgrade,positive,cloud,storage 1tb,USA,enterprise
+Can you move me to fiber 300?,upgrade,positive,broadband,fiber 300,Singapore,enterprise
+I would like to switch to postpaid gold,upgrade,positive,mobile,postpaid gold,Singapore,enterprise
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,USA,enterprise
+"I was billed 123 for smart parking, can you explain?",billing,neutral,iot,smart parking,Thailand,individual
+Can I get a refund for fiber 300?,refund,negative,broadband,fiber 300,India,individual
+Please change my current plan to storage 1tb,plan_change,positive,cloud,storage 1tb,Thailand,enterprise
+"My bill shows 99 for prepaid basic, why is that?",billing,neutral,mobile,prepaid basic,Singapore,enterprise
+I want a refund for my fleet iot,refund,negative,iot,fleet iot,India,individual
+I want a refund for my smart traffic,refund,negative,iot,smart traffic,India,enterprise
+I need my money back for fiber 100,refund,negative,broadband,fiber 100,Thailand,individual
+Is refund possible for storage 10tb?,refund,negative,cloud,storage 10tb,India,enterprise
+I would like to switch to fiber 300,upgrade,positive,broadband,fiber 300,Singapore,individual
+There is a problem with my mobile service,technical_support,negative,mobile,postpaid platinum,Thailand,enterprise
+I want to change my plan to storage 10tb,plan_change,neutral,cloud,storage 10tb,USA,enterprise
+I want to change my plan to prepaid plus,plan_change,neutral,mobile,prepaid plus,Singapore,individual
+Please process a refund for prepaid unlimited,refund,negative,mobile,prepaid unlimited,Singapore,individual
+I want to change my plan to smart traffic,plan_change,neutral,iot,smart traffic,Thailand,enterprise
+Is refund possible for fiber 100?,refund,negative,broadband,fiber 100,Thailand,enterprise
+I need my money back for storage 1tb,refund,negative,cloud,storage 1tb,Thailand,individual
+I am facing issues with my fiber 300,technical_support,negative,broadband,fiber 300,Thailand,individual
+I want to upgrade my plan to postpaid platinum,upgrade,positive,mobile,postpaid platinum,Thailand,enterprise
+Why was I charged 148 for my prepaid unlimited?,billing,negative,mobile,prepaid unlimited,Thailand,individual
+"I was billed 27 for vm basic, can you explain?",billing,negative,cloud,vm basic,Singapore,enterprise
+Please change my current plan to prepaid basic,plan_change,positive,mobile,prepaid basic,India,enterprise
+I want to upgrade my plan to postpaid platinum,upgrade,positive,mobile,postpaid platinum,India,enterprise
+I want to upgrade my plan to vm pro,upgrade,positive,cloud,vm pro,Thailand,individual
+Please upgrade me to prepaid unlimited,upgrade,positive,mobile,prepaid unlimited,India,enterprise
+I want a refund for my smart traffic,refund,negative,iot,smart traffic,Singapore,enterprise
+I want to upgrade my plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,USA,enterprise
+Why was I charged 70 for my fiber 1gbps?,billing,neutral,broadband,fiber 1gbps,USA,individual
+Is refund possible for prepaid unlimited?,refund,negative,mobile,prepaid unlimited,India,enterprise
+My prepaid plus is not functioning correctly,technical_support,neutral,mobile,prepaid plus,USA,enterprise
+The cloud connection is very slow,technical_support,negative,cloud,storage 1tb,India,individual
+"I was billed 154 for fiber 300, can you explain?",billing,neutral,broadband,fiber 300,Singapore,enterprise
+Is refund possible for vm pro?,refund,negative,cloud,vm pro,Thailand,individual
+Can I get a refund for postpaid platinum?,refund,negative,mobile,postpaid platinum,India,enterprise
+There is an unexpected charge of 307 for postpaid gold,billing,neutral,mobile,postpaid gold,India,individual
+Can you switch my plan to smart traffic?,plan_change,neutral,iot,smart traffic,Singapore,enterprise
+Upgrade my current plan to vm enterprise,upgrade,positive,cloud,vm enterprise,USA,individual
+Please upgrade me to vm pro,upgrade,positive,cloud,vm pro,USA,individual
+I want to change my plan to fleet iot,plan_change,positive,iot,fleet iot,India,individual
+Can I get a refund for prepaid unlimited?,refund,negative,mobile,prepaid unlimited,India,enterprise
+I want to upgrade my plan to storage 1tb,upgrade,positive,cloud,storage 1tb,USA,individual
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,Singapore,enterprise
+Help me change to fiber 100,plan_change,positive,broadband,fiber 100,Singapore,individual
+Why was I charged 139 for my fiber 100?,billing,neutral,broadband,fiber 100,USA,enterprise
+Why is my smart traffic bill 3351?,billing,negative,iot,smart traffic,India,enterprise
+My storage 1tb is not functioning correctly,technical_support,neutral,cloud,storage 1tb,Singapore,individual
+I want to change my plan to fleet iot,plan_change,positive,iot,fleet iot,Thailand,enterprise
+I want to upgrade my plan to vm pro,upgrade,positive,cloud,vm pro,India,individual
+"I was billed 59 for smart parking, can you explain?",billing,negative,iot,smart parking,Thailand,enterprise
+My fiber 300 is not functioning correctly,technical_support,neutral,broadband,fiber 300,India,enterprise
+I would like to switch to prepaid plus,upgrade,positive,mobile,prepaid plus,USA,individual
+There is an unexpected charge of 189 for postpaid gold,billing,negative,mobile,postpaid gold,Singapore,individual
+Can I get a refund for fleet iot?,refund,negative,iot,fleet iot,Thailand,individual
+Why was I charged 3090 for my storage 10tb?,billing,neutral,cloud,storage 10tb,India,enterprise
+"My bill shows 186 for fiber 100, why is that?",billing,negative,broadband,fiber 100,Singapore,individual
+Help me change to fiber 300,plan_change,neutral,broadband,fiber 300,USA,individual
+"I was billed 2893 for smart traffic, can you explain?",billing,neutral,iot,smart traffic,India,individual
+I want to change my plan to vm basic,plan_change,neutral,cloud,vm basic,Singapore,individual
+I would like to modify my plan to fiber 300,plan_change,neutral,broadband,fiber 300,Singapore,enterprise
+Can you switch my plan to fiber 100?,plan_change,positive,broadband,fiber 100,USA,enterprise
+Upgrade my current plan to prepaid plus,upgrade,positive,mobile,prepaid plus,India,enterprise
+"I was billed 63 for vm basic, can you explain?",billing,negative,cloud,vm basic,USA,enterprise
+There is an unexpected charge of 14 for prepaid plus,billing,negative,mobile,prepaid plus,Thailand,individual
+I want to change my plan to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,India,enterprise
+I need my money back for smart parking,refund,negative,iot,smart parking,USA,enterprise
+My storage 1tb is not functioning correctly,technical_support,negative,cloud,storage 1tb,Singapore,enterprise
+Please change my current plan to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,Thailand,enterprise
+There is a problem with my cloud service,technical_support,neutral,cloud,storage 10tb,India,enterprise
+My cloud service is not working properly,technical_support,negative,cloud,vm basic,Singapore,enterprise
+I would like to modify my plan to postpaid gold,plan_change,positive,mobile,postpaid gold,USA,enterprise
+Help me change to fiber 300,plan_change,neutral,broadband,fiber 300,USA,individual
+Please upgrade me to smart traffic,upgrade,positive,iot,smart traffic,Thailand,enterprise
+Please process a refund for vm enterprise,refund,negative,cloud,vm enterprise,USA,enterprise
+Why is my prepaid unlimited bill 39?,billing,neutral,mobile,prepaid unlimited,USA,enterprise
+Can you move me to smart traffic?,upgrade,positive,iot,smart traffic,USA,enterprise
+The cloud connection is very slow,technical_support,neutral,cloud,vm enterprise,USA,individual
+I am facing issues with my postpaid platinum,technical_support,neutral,mobile,postpaid platinum,Singapore,individual
+Please upgrade me to fleet iot,upgrade,positive,iot,fleet iot,USA,enterprise
+Is refund possible for fiber 300?,refund,negative,broadband,fiber 300,Singapore,individual
+Upgrade my current plan to postpaid gold,upgrade,positive,mobile,postpaid gold,USA,individual
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,India,enterprise
+Please process a refund for fiber 1gbps,refund,negative,broadband,fiber 1gbps,Thailand,individual
+Can you switch my plan to fiber 300?,plan_change,positive,broadband,fiber 300,Thailand,individual
+"I was billed 27 for storage 10tb, can you explain?",billing,neutral,cloud,storage 10tb,Thailand,enterprise
+I need my money back for fleet iot,refund,negative,iot,fleet iot,India,enterprise
+There is a problem with my broadband service,technical_support,negative,broadband,fiber 100,Thailand,individual
+Upgrade my current plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Thailand,individual
+Please upgrade me to fleet iot,upgrade,positive,iot,fleet iot,Singapore,individual
+My storage 10tb is not functioning correctly,technical_support,neutral,cloud,storage 10tb,India,enterprise
+Please change my current plan to prepaid plus,plan_change,positive,mobile,prepaid plus,Singapore,individual
+The iot connection is very slow,technical_support,negative,iot,fleet iot,India,individual
+Please change my current plan to storage 10tb,plan_change,positive,cloud,storage 10tb,Singapore,individual
+Why was I charged 51 for my fleet iot?,billing,negative,iot,fleet iot,USA,enterprise
+I need my money back for smart traffic,refund,negative,iot,smart traffic,USA,individual
+Upgrade my current plan to storage 10tb,upgrade,positive,cloud,storage 10tb,Thailand,enterprise
+I am facing issues with my vm pro,technical_support,negative,cloud,vm pro,USA,enterprise
+Is refund possible for vm enterprise?,refund,negative,cloud,vm enterprise,Thailand,individual
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,USA,enterprise
+Can I get a refund for fiber 100?,refund,negative,broadband,fiber 100,USA,individual
+Why is my fiber 1gbps bill 134?,billing,neutral,broadband,fiber 1gbps,USA,enterprise
+"I was billed 36 for storage 10tb, can you explain?",billing,neutral,cloud,storage 10tb,USA,enterprise
+The iot connection is very slow,technical_support,neutral,iot,smart traffic,USA,individual
+"I was billed 82 for fiber 1gbps, can you explain?",billing,negative,broadband,fiber 1gbps,Singapore,individual
+There is an unexpected charge of 135 for storage 10tb,billing,neutral,cloud,storage 10tb,Singapore,enterprise
+My iot service is not working properly,technical_support,negative,iot,smart parking,Singapore,individual
+"I was billed 80 for vm pro, can you explain?",billing,negative,cloud,vm pro,Thailand,individual
+Please change my current plan to prepaid plus,plan_change,positive,mobile,prepaid plus,Singapore,enterprise
+My fiber 300 is not functioning correctly,technical_support,neutral,broadband,fiber 300,Singapore,individual
+I would like to switch to vm enterprise,upgrade,positive,cloud,vm enterprise,India,enterprise
+Is refund possible for smart parking?,refund,negative,iot,smart parking,India,individual
+My broadband service is not working properly,technical_support,negative,broadband,fiber 300,USA,individual
+"My bill shows 144 for postpaid silver, why is that?",billing,negative,mobile,postpaid silver,Thailand,enterprise
+"I was billed 166 for postpaid gold, can you explain?",billing,neutral,mobile,postpaid gold,USA,individual
+Please change my current plan to smart traffic,plan_change,neutral,iot,smart traffic,Singapore,enterprise
+I want to upgrade my plan to fleet iot,upgrade,positive,iot,fleet iot,Thailand,enterprise
+Why is my storage 10tb bill 4924?,billing,neutral,cloud,storage 10tb,India,individual
+There is a problem with my mobile service,technical_support,neutral,mobile,postpaid platinum,Singapore,enterprise
+Can I get a refund for vm pro?,refund,negative,cloud,vm pro,Thailand,individual
+I am facing issues with my fiber 300,technical_support,negative,broadband,fiber 300,USA,individual
+Please upgrade me to postpaid silver,upgrade,positive,mobile,postpaid silver,USA,enterprise
+Can I get a refund for postpaid platinum?,refund,negative,mobile,postpaid platinum,USA,individual
+I want to change my plan to prepaid basic,plan_change,neutral,mobile,prepaid basic,India,individual
+"My bill shows 25 for smart parking, why is that?",billing,neutral,iot,smart parking,Thailand,enterprise
+Can you move me to fiber 300?,upgrade,positive,broadband,fiber 300,USA,enterprise
+My fleet iot is not functioning correctly,technical_support,negative,iot,fleet iot,Thailand,individual
+Can I get a refund for smart traffic?,refund,negative,iot,smart traffic,Singapore,enterprise
+I need my money back for fleet iot,refund,negative,iot,fleet iot,USA,enterprise
+Help me change to fiber 1gbps,plan_change,positive,broadband,fiber 1gbps,USA,enterprise
+Upgrade my current plan to vm basic,upgrade,positive,cloud,vm basic,Singapore,enterprise
+Help me change to vm pro,plan_change,neutral,cloud,vm pro,Singapore,enterprise
+I want a refund for my smart parking,refund,negative,iot,smart parking,India,individual
+There is a problem with my broadband service,technical_support,neutral,broadband,fiber 300,India,enterprise
+There is a problem with my iot service,technical_support,neutral,iot,fleet iot,India,individual
+I am facing issues with my vm enterprise,technical_support,neutral,cloud,vm enterprise,India,individual
+Can you move me to fiber 300?,upgrade,positive,broadband,fiber 300,USA,individual
+Can you move me to postpaid silver?,upgrade,positive,mobile,postpaid silver,Thailand,enterprise
+The iot connection is very slow,technical_support,negative,iot,smart traffic,Thailand,individual
+Why is my postpaid gold bill 1886?,billing,negative,mobile,postpaid gold,India,enterprise
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,USA,enterprise
+I would like to modify my plan to fiber 100,plan_change,positive,broadband,fiber 100,Singapore,enterprise
+Upgrade my current plan to storage 10tb,upgrade,positive,cloud,storage 10tb,India,individual
+Please upgrade me to smart parking,upgrade,positive,iot,smart parking,USA,individual
+I want a refund for my fiber 100,refund,negative,broadband,fiber 100,Singapore,individual
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,Singapore,enterprise
+I want a refund for my fiber 1gbps,refund,negative,broadband,fiber 1gbps,USA,individual
+Is refund possible for postpaid gold?,refund,negative,mobile,postpaid gold,Singapore,individual
+There is an unexpected charge of 5795 for smart parking,billing,negative,iot,smart parking,India,individual
+There is a problem with my mobile service,technical_support,negative,mobile,postpaid silver,Thailand,individual
+The mobile connection is very slow,technical_support,negative,mobile,postpaid platinum,Singapore,enterprise
+I want to change my plan to vm enterprise,plan_change,positive,cloud,vm enterprise,USA,individual
+My fiber 300 is not functioning correctly,technical_support,negative,broadband,fiber 300,Thailand,individual
+I want to upgrade my plan to postpaid silver,upgrade,positive,mobile,postpaid silver,Thailand,individual
+"I was billed 64 for vm basic, can you explain?",billing,negative,cloud,vm basic,Thailand,individual
+There is a problem with my broadband service,technical_support,neutral,broadband,fiber 1gbps,USA,enterprise
+Can you move me to postpaid gold?,upgrade,positive,mobile,postpaid gold,India,individual
+I want a refund for my vm enterprise,refund,negative,cloud,vm enterprise,Singapore,enterprise
+Can you switch my plan to fleet iot?,plan_change,neutral,iot,fleet iot,Singapore,enterprise
+Help me change to fiber 300,plan_change,neutral,broadband,fiber 300,Singapore,individual
+There is an unexpected charge of 118 for fleet iot,billing,neutral,iot,fleet iot,Singapore,enterprise
+Help me change to fleet iot,plan_change,positive,iot,fleet iot,Thailand,individual
+I want to change my plan to prepaid unlimited,plan_change,positive,mobile,prepaid unlimited,Singapore,individual
+My prepaid unlimited is not functioning correctly,technical_support,negative,mobile,prepaid unlimited,Singapore,individual
+Upgrade my current plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Thailand,enterprise
+Is refund possible for prepaid plus?,refund,negative,mobile,prepaid plus,USA,enterprise
+There is an unexpected charge of 129 for fiber 1gbps,billing,neutral,broadband,fiber 1gbps,Thailand,enterprise
+I am facing issues with my smart traffic,technical_support,negative,iot,smart traffic,USA,enterprise
+My broadband service is not working properly,technical_support,negative,broadband,fiber 100,Thailand,enterprise
+Help me change to postpaid gold,plan_change,neutral,mobile,postpaid gold,India,enterprise
+Can you move me to fleet iot?,upgrade,positive,iot,fleet iot,Singapore,individual
+Please change my current plan to prepaid basic,plan_change,positive,mobile,prepaid basic,Singapore,individual
+Help me change to fiber 300,plan_change,positive,broadband,fiber 300,India,enterprise
+Can you move me to fiber 300?,upgrade,positive,broadband,fiber 300,Singapore,individual
+I want to change my plan to fiber 100,plan_change,neutral,broadband,fiber 100,India,individual
+Is refund possible for fiber 100?,refund,negative,broadband,fiber 100,Thailand,individual
+Why was I charged 146 for my fiber 1gbps?,billing,negative,broadband,fiber 1gbps,Thailand,individual
+I would like to switch to postpaid gold,upgrade,positive,mobile,postpaid gold,India,individual
+Why was I charged 133 for my smart parking?,billing,neutral,iot,smart parking,Singapore,individual
+I would like to modify my plan to postpaid gold,plan_change,neutral,mobile,postpaid gold,USA,individual
+Can you switch my plan to storage 1tb?,plan_change,neutral,cloud,storage 1tb,Thailand,enterprise
+I want to change my plan to vm basic,plan_change,positive,cloud,vm basic,Singapore,individual
+My cloud service is not working properly,technical_support,negative,cloud,storage 10tb,Singapore,enterprise
+My mobile service is not working properly,technical_support,neutral,mobile,postpaid silver,Singapore,enterprise
+My postpaid platinum is not functioning correctly,technical_support,neutral,mobile,postpaid platinum,Thailand,individual
+"My bill shows 191 for smart parking, why is that?",billing,negative,iot,smart parking,Singapore,individual
+I want a refund for my prepaid basic,refund,negative,mobile,prepaid basic,USA,individual
+My broadband service is not working properly,technical_support,neutral,broadband,fiber 300,Singapore,individual
+I want to upgrade my plan to postpaid gold,upgrade,positive,mobile,postpaid gold,India,individual
+"I was billed 171 for fiber 1gbps, can you explain?",billing,negative,broadband,fiber 1gbps,USA,individual
+Upgrade my current plan to storage 1tb,upgrade,positive,cloud,storage 1tb,USA,individual
+Can I get a refund for smart traffic?,refund,negative,iot,smart traffic,Thailand,enterprise
+Can I get a refund for smart traffic?,refund,negative,iot,smart traffic,USA,individual
+Please upgrade me to fiber 100,upgrade,positive,broadband,fiber 100,USA,enterprise
+Please upgrade me to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Thailand,individual
+Please process a refund for vm basic,refund,negative,cloud,vm basic,India,individual
+Why was I charged 59 for my prepaid unlimited?,billing,negative,mobile,prepaid unlimited,Thailand,individual
+Please process a refund for smart traffic,refund,negative,iot,smart traffic,Thailand,enterprise
+"My bill shows 25 for smart parking, why is that?",billing,neutral,iot,smart parking,Thailand,enterprise
+I need my money back for fiber 300,refund,negative,broadband,fiber 300,USA,individual
+I would like to modify my plan to postpaid gold,plan_change,neutral,mobile,postpaid gold,USA,individual
+Upgrade my current plan to fleet iot,upgrade,positive,iot,fleet iot,USA,individual
+I am facing issues with my prepaid plus,technical_support,negative,mobile,prepaid plus,Singapore,individual
+Can you switch my plan to prepaid basic?,plan_change,neutral,mobile,prepaid basic,India,individual
+I would like to modify my plan to fiber 1gbps,plan_change,neutral,broadband,fiber 1gbps,India,enterprise
+I am facing issues with my fiber 300,technical_support,neutral,broadband,fiber 300,India,individual
+I would like to modify my plan to prepaid plus,plan_change,neutral,mobile,prepaid plus,USA,enterprise
+Help me change to storage 1tb,plan_change,positive,cloud,storage 1tb,Singapore,individual
+I am facing issues with my postpaid platinum,technical_support,neutral,mobile,postpaid platinum,USA,individual
+Why is my fiber 300 bill 2271?,billing,negative,broadband,fiber 300,India,enterprise
+Help me change to smart parking,plan_change,neutral,iot,smart parking,Singapore,individual
+Why is my fleet iot bill 36?,billing,negative,iot,fleet iot,Singapore,individual
+Why is my vm enterprise bill 139?,billing,negative,cloud,vm enterprise,Singapore,individual
+Is refund possible for storage 10tb?,refund,negative,cloud,storage 10tb,Singapore,individual
+I am facing issues with my fiber 300,technical_support,neutral,broadband,fiber 300,Singapore,individual
+I want to change my plan to prepaid plus,plan_change,neutral,mobile,prepaid plus,USA,individual
+I want to change my plan to fiber 100,plan_change,positive,broadband,fiber 100,Thailand,individual
+Why is my fiber 300 bill 84?,billing,neutral,broadband,fiber 300,Thailand,enterprise
+Please upgrade me to storage 10tb,upgrade,positive,cloud,storage 10tb,Singapore,enterprise
+The mobile connection is very slow,technical_support,negative,mobile,postpaid platinum,USA,individual
+There is an unexpected charge of 203 for prepaid unlimited,billing,negative,mobile,prepaid unlimited,Singapore,individual
+I need my money back for fleet iot,refund,negative,iot,fleet iot,India,enterprise
+Please upgrade me to storage 1tb,upgrade,positive,cloud,storage 1tb,Singapore,enterprise
+Please upgrade me to vm basic,upgrade,positive,cloud,vm basic,Singapore,enterprise
+I want to upgrade my plan to storage 1tb,upgrade,positive,cloud,storage 1tb,India,individual
+There is an unexpected charge of 63 for fleet iot,billing,neutral,iot,fleet iot,USA,individual
+Please process a refund for smart traffic,refund,negative,iot,smart traffic,Thailand,enterprise
+My vm pro is not functioning correctly,technical_support,neutral,cloud,vm pro,Singapore,enterprise
+I am facing issues with my smart traffic,technical_support,negative,iot,smart traffic,Thailand,enterprise
+Can you move me to storage 10tb?,upgrade,positive,cloud,storage 10tb,USA,individual
+I want to upgrade my plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,India,enterprise
+Upgrade my current plan to fleet iot,upgrade,positive,iot,fleet iot,USA,enterprise
+"I was billed 150 for postpaid platinum, can you explain?",billing,negative,mobile,postpaid platinum,Thailand,individual
+Can you move me to smart traffic?,upgrade,positive,iot,smart traffic,Singapore,enterprise
+Why is my fiber 100 bill 3194?,billing,neutral,broadband,fiber 100,India,enterprise
+I want to upgrade my plan to prepaid plus,upgrade,positive,mobile,prepaid plus,USA,individual
+I want to upgrade my plan to fiber 1gbps,upgrade,positive,broadband,fiber 1gbps,Singapore,individual
+There is a problem with my cloud service,technical_support,negative,cloud,vm basic,India,individual
+I would like to modify my plan to postpaid gold,plan_change,neutral,mobile,postpaid gold,Singapore,enterprise
+My prepaid plus is not functioning correctly,technical_support,neutral,mobile,prepaid plus,India,enterprise
+Upgrade my current plan to vm basic,upgrade,positive,cloud,vm basic,USA,individual
+I would like to switch to smart traffic,upgrade,positive,iot,smart traffic,Thailand,individual
+Can I get a refund for fiber 1gbps?,refund,negative,broadband,fiber 1gbps,Singapore,enterprise
+I need my money back for fiber 300,refund,negative,broadband,fiber 300,India,individual
+Can you move me to storage 1tb?,upgrade,positive,cloud,storage 1tb,USA,enterprise
+I need my money back for fiber 300,refund,negative,broadband,fiber 300,Thailand,individual
+Please process a refund for prepaid basic,refund,negative,mobile,prepaid basic,India,individual
+"I was billed 2700 for fleet iot, can you explain?",billing,neutral,iot,fleet iot,India,individual
+I want to upgrade my plan to postpaid platinum,upgrade,positive,mobile,postpaid platinum,Thailand,individual
+Please change my current plan to smart parking,plan_change,neutral,iot,smart parking,Singapore,enterprise
+I would like to switch to fiber 100,upgrade,positive,broadband,fiber 100,India,individual
+I need my money back for fiber 100,refund,negative,broadband,fiber 100,USA,individual
+I want to upgrade my plan to fleet iot,upgrade,positive,iot,fleet iot,Singapore,enterprise
+I am facing issues with my prepaid plus,technical_support,negative,mobile,prepaid plus,USA,enterprise
+I want to upgrade my plan to smart traffic,upgrade,positive,iot,smart traffic,USA,individual
+There is an unexpected charge of 179 for storage 1tb,billing,neutral,cloud,storage 1tb,Singapore,individual
+There is a problem with my iot service,technical_support,neutral,iot,smart parking,India,individual
+The broadband connection is very slow,technical_support,neutral,broadband,fiber 100,USA,enterprise
+My broadband service is not working properly,technical_support,negative,broadband,fiber 1gbps,USA,individual
+I am facing issues with my fiber 1gbps,technical_support,neutral,broadband,fiber 1gbps,Thailand,enterprise
+Can I get a refund for fiber 300?,refund,negative,broadband,fiber 300,Thailand,individual
+I want to change my plan to postpaid platinum,plan_change,positive,mobile,postpaid platinum,India,individual
+I would like to modify my plan to vm pro,plan_change,neutral,cloud,vm pro,Thailand,individual
+The cloud connection is very slow,technical_support,neutral,cloud,vm enterprise,India,individual
+Please change my current plan to storage 1tb,plan_change,positive,cloud,storage 1tb,USA,individual
+"I was billed 163 for fiber 300, can you explain?",billing,neutral,broadband,fiber 300,Thailand,enterprise
+There is a problem with my cloud service,technical_support,negative,cloud,storage 10tb,Thailand,enterprise
+Help me change to fiber 300,plan_change,neutral,broadband,fiber 300,India,enterprise
+Is refund possible for fleet iot?,refund,negative,iot,fleet iot,USA,individual
+Upgrade my current plan to prepaid basic,upgrade,positive,mobile,prepaid basic,Singapore,enterprise
+"I was billed 67 for fleet iot, can you explain?",billing,negative,iot,fleet iot,Singapore,enterprise
+I want to upgrade my plan to prepaid unlimited,upgrade,positive,mobile,prepaid unlimited,USA,individual
+Can you move me to prepaid plus?,upgrade,positive,mobile,prepaid plus,Thailand,individual
+Can you move me to postpaid gold?,upgrade,positive,mobile,postpaid gold,India,individual
+I would like to switch to fleet iot,upgrade,positive,iot,fleet iot,Singapore,enterprise
+Why was I charged 20 for my fiber 300?,billing,neutral,broadband,fiber 300,USA,individual
+Is refund possible for vm basic?,refund,negative,cloud,vm basic,Thailand,individual
+My broadband service is not working properly,technical_support,neutral,broadband,fiber 100,India,individual
+Help me change to smart traffic,plan_change,neutral,iot,smart traffic,India,individual
